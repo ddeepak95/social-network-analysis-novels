@@ -1,0 +1,10 @@
+ebooklib
+beautifulsoup4
+html2text
+networkx
+matplotlib
+pandas
+numpy
+spacy
+textblob
+scipy
