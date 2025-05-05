@@ -6,6 +6,8 @@
 
 This project explores the application of Social Network Analysis (SNA) to literary novels. By extracting and analyzing the relationships between characters, we can gain new insights into narrative structure, character importance, and the dynamics of fictional worlds.
 
+Check out this article that I wrote based on the Social Network Analysis of The Covenant of Water: [https://notebook.ddeepak95.com/articles/social-network-analysis-of-the-covenant-of-water/](https://notebook.ddeepak95.com/articles/social-network-analysis-of-the-covenant-of-water/)
+
 ## How is the social network constructed?
 
 The core of this project is the automated extraction of character interactions from the text of a novel. Here’s how the process works:
